@@ -1,0 +1,40 @@
+Jeevan Chhajed
+CI/CD: Cloud Computing | The Spark Foundation | #GRIPAUG21 | Web Development Intern | 
+
+
+
+Step 1: Login to Your AWS account.
+Step 2: Go to Service tabs at left hand corner.
+Step 3: Here, you will see all of the ANS Services categorized as per their area viz, Compute, Storage, Database, etc 
+Step 4: For Creating an EC2 instance, we have to choose Compute EC2
+
+
+Step 5: In EC2 dashboard, here we will get the information about running resources.
+
+
+Step 6: Before Creating EC2 Instance make sure you have select the suitable region, if not then choose the suitable region and come back to your EC2 Dashboard
+
+
+Step 7: Click on the "Launch Instance" button. 
+Step 8: Then Choose your AMI (Amazon Machine Image)
+
+
+Step 9: Choose your EC2 Instance types 
+Step 10: Configure your instances i.e. how much number of instance you want to create.
+
+
+Step 11: The Add Storage how much storage we want to add
+
+
+Step 12: Tag Instance 
+Step 13: Then Configure Security Groups
+
+
+Step 14: After completing all the steps then click on Review Instance Launch
+
+
+Step 15: Then download key pair before that create a new key pair or existing key pair (if you already have key pair)
+
+
+Step 16: Click Launch Instance.
+
